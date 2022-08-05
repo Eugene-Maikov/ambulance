@@ -1,8 +1,0 @@
-config
-node_modules
-src
-tasks
-.gitignore
-gulpfile.js
-package-lock.json
-package.json
